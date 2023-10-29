@@ -1,6 +1,9 @@
-# navasan
+# sampleshop
 
 A new Flutter project.
+This project is a sample shop for run create a new project replace directory to your project and run puspec.yaml.
+this project use a php api server that file was uploaded as shopserver to run in local you can use a xampp server.
+dont forget set your php api server ip in project(myflutterprojects\sampleshop\lib\core\utils\constants.dart) before use.
 
 ## Getting Started
 
